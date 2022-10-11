@@ -15,5 +15,3 @@
 - github
 
 - docker
-
-
